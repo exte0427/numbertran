@@ -6,5 +6,5 @@
 
 # 임포트
 ```js
-import("https://cdn.jsdelivr.net/gh/exte0427/numbertran/nn.js");
+import("https://cdn.jsdelivr.net/gh/exte0427/numbertran/index.js");
 ```
