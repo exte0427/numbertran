@@ -26,11 +26,11 @@ for (let 아이 = 0; 아이 < 단위.length; 아이++) {
 
                 if (넘버 % 3000 == 0) {
                     console.clear();
-                    console.log(`${(넘버 * 100) / (99999)}% loaded`);
+                    console.log(`[ 숫자 한글화 ]\n${(넘버 * 100) / (99999)}% 로딩됨`);
                 }
             });
         }
     }
 }
 console.clear();
-console.log(`100% loaded`);
+console.log(`[ 숫자 한글화 ]\n100% 로딩됨\n1~99999`);
